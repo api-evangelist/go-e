@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-go-e is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://go-e.com/
+go-e GmbH designs and manufactures smart electric vehicle (EV) wallbox charging stations for home, business and multi‑unit installations. Their product range includes the Gemini, CORE, PRO and Controller series, supporting features such as PV‑surplus charging, shared charging, and integration with energy management systems. The company emphasizes sustainability, offers a reseller program, and provides extensive support resources including manuals, FAQs and a blog.
+
+**Areas:** Company · EV Charging · Hardware · Sustainability · Reseller
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://go-e.com/)
+- [Documentation](https://go-e.com/en/about-us/company)
+- [Getting started](https://go-e.com/en/solutions/for-customers/electric-car-charging-at-home)
+- [Support](https://go-e.com/en/support/contact)
+- [Blog](https://go-e.com/en/magazine)
+- [Terms of service](https://go-e.com/en/data-protection)
+- [Privacy policy](https://go-e.com/en/data-protection)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/go-e/](https://apis.io/providers/go-e/).
